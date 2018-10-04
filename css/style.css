@@ -1,0 +1,34 @@
+.services-1{
+	height: 250px;
+	background: blue;
+}
+
+.services-2{
+	height: 250px;
+	background: red;
+}
+
+.services-3{
+	height: 250px;
+	background: green;
+	border: 1px solid-black;
+}
+.services-4{
+	height: 250px;
+	background:white;
+}
+.image-box{
+	width: 100%;
+	background-image: url('../img/test2.jpg');
+	height:  450px;
+	background-size: cover; 
+	background-position: center;
+	background-repeat: no-repeat;
+/*	padding-bottom: 600px;*/
+}
+img {
+	width: 100%;
+}
+.services{
+	padding-top: 180px;
+}
